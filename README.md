@@ -166,7 +166,7 @@ The website is fully responsive and optimized for:
 1. Download or clone the project
 
 ```bash
-git clone [<repository-link>](https://github.com/mayur9894/GreenPulse.git)
+git clone (https://github.com/mayur9894/GreenPulse.git)
 ```
 
 2. Open the project folder
