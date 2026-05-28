@@ -8,11 +8,11 @@ The project focuses on increasing citizen participation in recycling by transfor
 
 The landing page combines:
 
-* Gamification
-* Community engagement
-* Reward systems
-* Hyper-local storytelling
-* Modern UI/UX interactions
+- Gamification
+- Community engagement
+- Reward systems
+- Hyper-local storytelling
+- Modern UI/UX interactions
 
 to encourage users to join the initiative through a simple signup form.
 
@@ -26,11 +26,11 @@ The visual direction of Green Pulse is inspired by the idea of making recycling 
 
 The design uses:
 
-* Vibrant green gradients
-* Gamified reward elements
-* Live community stats
-* Interactive animations
-* Modern glassmorphism UI
+- Vibrant green gradients
+- Gamified reward elements
+- Live community stats
+- Interactive animations
+- Modern glassmorphism UI
 
 to create excitement and improve user engagement.
 
@@ -38,18 +38,18 @@ to create excitement and improve user engagement.
 
 The initiative addresses low participation in recycling programs by:
 
-* Making recycling aspirational
-* Introducing rewards and leaderboard systems
-* Showing real community impact
-* Simplifying doorstep pickup flow
-* Creating emotional and visual engagement
+- Making recycling aspirational
+- Introducing rewards and leaderboard systems
+- Showing real community impact
+- Simplifying doorstep pickup flow
+- Creating emotional and visual engagement
 
 The website is designed especially for:
 
-* Working professionals
-* Students
-* Modern residential societies
-* Young eco-conscious citizens
+- Working professionals
+- Students
+- Modern residential societies
+- Young eco-conscious citizens
 
 ---
 
@@ -57,33 +57,33 @@ The website is designed especially for:
 
 ## Core Features
 
-* Responsive Landing Page
-* Modern UI Design
-* Smooth Scrolling Navigation
-* Animated Statistics Counter
-* Interactive Reward System
-* Community Leaderboard
-* Recycling Awareness Sections
-* QR Join Section
-* Mobile-Friendly Navigation
-* Premium Loading Animation
-* Back To Top Button
-* AOS Scroll Animations
-* Infinite Marquee Updates
-* Glassmorphism Effects
-* Gamified User Journey
+- Responsive Landing Page
+- Modern UI Design
+- Smooth Scrolling Navigation
+- Animated Statistics Counter
+- Interactive Reward System
+- Community Leaderboard
+- Recycling Awareness Sections
+- QR Join Section
+- Mobile-Friendly Navigation
+- Premium Loading Animation
+- Back To Top Button
+- AOS Scroll Animations
+- Infinite Marquee Updates
+- Glassmorphism Effects
+- Gamified User Journey
 
 ---
 
 # Technologies Used
 
-* HTML5
-* CSS3
-* Bootstrap 5
-* JavaScript
-* jQuery
-* Bootstrap Icons
-* AOS Animation Library
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+- jQuery
+- Bootstrap Icons
+- AOS Animation Library
 
 ---
 
@@ -103,13 +103,14 @@ GreenPulse/
 │  │  ├─ d1.png
 │  │  ├─ d2.png
 │  │  ├─ favicon.png
-│  │  ├─ home.jpg
 │  │  ├─ home1.jpg
 │  │  └─ qr.png
 │  └─ js/
 │     ├─ jquery.min.js
 │     └─ main.js
-└─ index.html
+├─ index.html
+└─ README.md
+
 
 ```
 
@@ -140,21 +141,21 @@ GreenPulse/
 
 The website is fully responsive and optimized for:
 
-* Desktop
-* Laptop
-* Tablet
-* Mobile Devices
+- Desktop
+- Laptop
+- Tablet
+- Mobile Devices
 
 ---
 
 # Performance & Optimization
 
-* Lightweight layout structure
-* Optimized animations
-* Mobile-first responsiveness
-* SEO-friendly meta tags
-* Reusable components
-* Fast-loading UI elements
+- Lightweight layout structure
+- Optimized animations
+- Mobile-first responsiveness
+- SEO-friendly meta tags
+- Reusable components
+- Fast-loading UI elements
 
 ---
 
@@ -171,17 +172,21 @@ git clone [<repository-link>](https://github.com/mayur9894/GreenPulse.git)
 2. Open the project folder
 
 3. Run `index.html` in any browser
+
 ---
 
 # Libraries Used
 
 ## Bootstrap
+
 https://getbootstrap.com/
 
 ## Bootstrap Icons
+
 https://icons.getbootstrap.com/
 
 ## AOS Animation Library
+
 https://michalsnik.github.io/aos/
 
 ---
@@ -190,33 +195,33 @@ https://michalsnik.github.io/aos/
 
 The primary goal of the landing page is to encourage users to:
 
-* Join the recycling initiative
-* Submit their phone number and address
-* Participate in smart recycling activities
+- Join the recycling initiative
+- Submit their phone number and address
+- Participate in smart recycling activities
 
 ---
 
 # UI/UX Highlights
 
-* Hyper-local storytelling for Gandhinagar citizens
-* Strong CTA placement
-* Premium modern aesthetic
-* Interactive visual hierarchy
-* Eco-friendly branding
-* Community-first engagement
+- Hyper-local storytelling for Gandhinagar citizens
+- Strong CTA placement
+- Premium modern aesthetic
+- Interactive visual hierarchy
+- Eco-friendly branding
+- Community-first engagement
 
 ---
 
 # Future Improvements
 
-* Backend Integration
-* Real Signup API
-* Authentication System
-* Dynamic Dashboard
-* Reward Redemption System
-* Pickup Scheduling System
-* Admin Panel
-* Real-Time Analytics
+- Backend Integration
+- Real Signup API
+- Authentication System
+- Dynamic Dashboard
+- Reward Redemption System
+- Pickup Scheduling System
+- Admin Panel
+- Real-Time Analytics
 
 ---
 
