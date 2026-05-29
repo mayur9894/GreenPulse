@@ -87,7 +87,7 @@ function animateCounters() {
     },
     {
       threshold: 0.3,
-    }
+    },
   );
   counters.forEach((counter) => {
     counterObserver.observe(counter);
@@ -117,7 +117,7 @@ function animateBar(id, width) {
     },
     {
       threshold: 0.4,
-    }
+    },
   );
   observer.observe(bar);
 }
@@ -129,10 +129,7 @@ function initModalSlider() {
   const modalElement = document.getElementById("adModal");
   const modalImage = document.getElementById("modalImage");
   if (!modalElement || !modalImage) return;
-  const images = [
-    "assets/images/d1.png",
-    "assets/images/d2.png",
-  ];
+  const images = ["assets/images/d1.png", "assets/images/d2.png"];
   let currentIndex = 0;
   const modal = new bootstrap.Modal(modalElement);
   // Open modal immediately
